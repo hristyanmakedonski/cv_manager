@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cv>
+  <personalinfo>
+      <firstname>Ivan</firstname>
+      <lastname>Georgiev</lastname>
+      <address>Sofia, Drujba </address>
+      <phone>0888888</phone>
+      <yearofbirth>1986-08-12</yearofbirth>
+  </personalinfo>
+  <education>
+      <school>
+            <name>School for mechanics</name>  
+            <specialty>Internal Combustion Engines</specialty>
+            <graduation>2005-05-30</graduation>
+            <city>Sofia</city>
+            <degree>Higth school</degree>
+      </school>
+      
+      <university>
+            <name>UNSS</name>  
+            <degree>Bachelor</degree>
+            <specialty>Public administration</specialty>
+             <graduation>2009-05-30</graduation>
+            <city>Sofia</city>
+      </university>
+  </education>
+  <workingexperience>
+      <internship>  
+           <from>05.10.2007</from>
+           <to>07.12.2007</to>
+           <position> Computer technician </position>
+           <organization>Jar computers</organization>
+           <city>Sofia</city>
+      </internship>
+      <realjob>
+          <from>2007-12-12</from>
+          <to>2010-12-12</to>
+          <position>Java developer</position>
+          <organization>Musala soft ltd</organization>
+          <city>Sofia</city>
+      </realjob>
+       <realjob>
+          <from>2010-12-13</from>
+          <to>2011-12-12</to>
+          <position>PHP developer</position>
+          <city>Sofia</city>
+          <organization>Melon ltd</organization>
+      </realjob>
+       <realjob>
+          <from>2011-12-13</from>
+          <to>Present</to>
+          <position>Java developer</position>
+          <city>Sofia</city>
+          <organization>SAP ltd</organization>
+      </realjob>
+  </workingexperience>
+  <skills>
+      <personal>
+          <skillname>Confident</skillname>
+      </personal>
+       <personal>
+          <skillname>Self motivated</skillname>
+      </personal>
+      <technical>
+          <skillname>OOP skils</skillname>
+      </technical>
+      <technical>
+          <skillname>REST</skillname>
+       </technical>
+       <technical>
+          <skillname>Zend framework</skillname>
+       </technical>
+       <technical>
+          <skillname>JacaScript</skillname>
+       </technical>
+       <technical>
+          <skillname>jQuery</skillname>
+       </technical>
+      
+  </skills>
+  <intersts>
+      <interstname>Computers</interstname>
+      <interstname>Sport</interstname>
+  </intersts>
+</cv>
