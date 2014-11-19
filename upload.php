@@ -1,6 +1,6 @@
 <?php 
 /**
- * Description of update
+ * Description of upload
  *
  * Here we choose file and we make submit
  *
@@ -9,8 +9,8 @@
 require_once './includes/header.php';?>
 <a href="./index.php">Back</a>
 <form action="./lib/UploadCv.php" method="post" enctype="multipart/form-data">
-    Select image to upload:
+    Select file to upload:
     <input type="file" name="fileToUpload" id="fileToUpload">
-    <input type="submit" value="Upload Image" name="submit">
+    <input type="submit" value="Upload File" name="submit">
 </form>
 <?php require_once './includes/footer.php';?>
